@@ -1,4 +1,9 @@
 {
-  "photos": [],
+  "photos": [
+    {
+      "id": "Shernite.png",
+      "file": "photos/Shernite.png.bin"
+    }
+  ],
   "letters": []
 }
